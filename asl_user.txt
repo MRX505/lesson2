@@ -1,0 +1,5 @@
+spr={2,4,8,10,11,15,18,20,22,24}
+x = 0
+
+for number in spr:
+    print(number+1)
